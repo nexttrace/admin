@@ -1,0 +1,14 @@
+.smcx-iframe-container {
+  border: none !important;
+  height: 1000px !important;
+}
+
+.smcx-widget, .smcx-embed, .smcx-show, .smcx-widget-dark  {
+  height: 1000px !important;
+  border: none !important;
+}
+
+.survey-page-body {
+  padding-left: 0px !important;
+  padding-top: 20px !important;
+}
